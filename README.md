@@ -1,3 +1,8 @@
+# WARNING
+This is a fork to release the package in elm 0.19 the original work is from https://github.com/primait/elm-iban
+
+I also update the license on the elm.json since the File allocated on the package was MIT.
+
 # Iban Validator
 
 This small library started out as a module for an IBAN form validator.
@@ -53,8 +58,8 @@ The library converts back the IBAN code in 2 string representations:
 ## Test
 
 
-to run the tests 
+to run the tests
 
 ```
-$ elm test 
+$ elm test
 ```
