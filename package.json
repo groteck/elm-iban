@@ -1,6 +1,6 @@
 {
   "name": "elm-iban",
-  "version": "2.0.0",
+  "version": "1.1.0",
   "description": "IBAN utilities for elm",
   "repository": "git@github.com:groteck/elm-iban.git",
   "author": "Juan Fraire <groteck@gmail.com>",
